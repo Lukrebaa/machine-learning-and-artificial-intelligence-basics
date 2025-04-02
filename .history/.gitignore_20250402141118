@@ -1,0 +1,16 @@
+# Ignore .history
+./history
+
+
+# MATLAB specific
+*.asv
+*.m~
+*.mex*
+*.mat
+slprj/
+sccprj/
+codegen/
+*.autosave
+*.slxc
+*.mlx
+*.mdl.autosave
